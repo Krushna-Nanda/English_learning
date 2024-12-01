@@ -1,3 +1,87 @@
+Here’s a list of common **signs** or **clues** (in Hindi) that help identify different tenses:
+
+### 1. **Present Indefinite** (वर्तमान काल)
+   **Signs**: 
+   - **ता है, ती है, ते हैं** (For male, female, and plural subjects respectively)
+   - Example: *वह स्कूल जाता है* (He goes to school).
+
+### 2. **Present Continuous** (वर्तमान काल की निरंतरता)
+   **Signs**: 
+   - **रहा है, रही है, रहे हैं** (For male, female, and plural subjects respectively)
+   - Example: *वह पढ़ रहा है* (He is reading).
+
+### 3. **Present Perfect** (वर्तमान पूर्ण काल)
+   **Signs**: 
+   - **चुका है, चुकी है, चुके हैं** (For male, female, and plural subjects respectively)
+   - Example: *मैंने खाना खा लिया है* (I have eaten food).
+
+### 4. **Present Perfect Continuous** (वर्तमान पूर्ण निरंतर काल)
+   **Signs**: 
+   - **रहा है, रही है, रहे हैं** (For male, female, and plural subjects respectively) + **है** (have been)
+   - Example: *वह दो घंटे से काम कर रहा है* (He has been working for two hours).
+
+---
+
+### 5. **Past Indefinite** (भूतकाल)
+   **Signs**: 
+   - **आ, ई, ए** (For male, female, and plural subjects respectively)
+   - Example: *मैंने किताब पढ़ी* (I read the book).
+
+### 6. **Past Continuous** (भूतकाल की निरंतरता)
+   **Signs**: 
+   - **रहा था, रही थी, रहे थे** (For male, female, and plural subjects respectively)
+   - Example: *वह पढ़ रहा था* (He was reading).
+
+### 7. **Past Perfect** (भूतकाल पूर्ण)
+   **Signs**: 
+   - **चुका था, चुकी थी, चुके थे** (For male, female, and plural subjects respectively)
+   - Example: *मैंने खाना खा लिया था* (I had eaten food).
+
+### 8. **Past Perfect Continuous** (भूतकाल पूर्ण निरंतर काल)
+   **Signs**: 
+   - **रहा था, रही थी, रहे थे** (For male, female, and plural subjects respectively) + **था** (had been)
+   - Example: *वह दो घंटे से काम कर रहा था* (He had been working for two hours).
+
+---
+
+### 9. **Future Indefinite** (भविष्य काल)
+   **Signs**: 
+   - **गा,गी, गे** (For male, female, and plural subjects respectively)
+   - Example: *वह स्कूल जाएगा* (He will go to school).
+
+### 10. **Future Continuous** (भविष्य निरंतर काल)
+   **Signs**: 
+   - **रहा होगा, रही होगी, रहे होंगे** (For male, female, and plural subjects respectively)
+   - Example: *वह पढ़ रहा होगा* (He will be reading).
+
+### 11. **Future Perfect** (भविष्य पूर्ण काल)
+   **Signs**: 
+   - **चुका होगा, चुकी होगी, चुके होंगे** (For male, female, and plural subjects respectively)
+   - Example: *मैंने अपना काम पूरा कर लिया होगा* (I will have finished my work).
+
+### 12. **Future Perfect Continuous** (भविष्य पूर्ण निरंतर काल)
+   **Signs**: 
+   - **रहा होगा, रही होगी, रहे होंगे** (For male, female, and plural subjects respectively) + **होगा** (will have been)
+   - Example: *वह दो घंटे से काम कर रहा होगा* (He will have been working for two hours).
+
+---
+
+### Summary of Signs:
+- **Present Indefinite**: *ता है, ती है, ते हैं*  
+- **Present Continuous**: *रहा है, रही है, रहे हैं*  
+- **Present Perfect**: *चुका है, चुकी है, चुके हैं*  
+- **Present Perfect Continuous**: *रहा है, रही है, रहे हैं* + **है**  
+- **Past Indefinite**: *आ, ई, ए*  
+- **Past Continuous**: *रहा था, रही थी, रहे थे*  
+- **Past Perfect**: *चुका था, चुकी थी, चुके थे*  
+- **Past Perfect Continuous**: *रहा था, रही थी, रहे थे* + **था**  
+- **Future Indefinite**: *गा,गी, गे*  
+- **Future Continuous**: *रहा होगा, रही होगी, रहे होंगे*  
+- **Future Perfect**: *चुका होगा, चुकी होगी, चुके होंगे*  
+- **Future Perfect Continuous**: *रहा होगा, रही होगी, रहे होंगे* + **होगा**
+
+These signs or endings will help you identify the tense based on the form of the verb.
+
 Sure! Here’s how you can identify the tenses in Hindi based on the verb forms. I'll give you the common indicators for each tense:
 
 ### **1. Present Indefinite (Simple Present)**  
