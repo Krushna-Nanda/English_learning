@@ -1,4 +1,4 @@
-Great question! When you're learning tenses and sentence structures, it can feel overwhelming to remember the rules for each one. However, when it comes to speaking English fluently, you don’t need to consciously apply formulas every time. Here are some practical tips to help you speak more naturally without overthinking:
+When you're learning tenses and sentence structures, it can feel overwhelming to remember the rules for each one. However, when it comes to speaking English fluently, you don’t need to consciously apply formulas every time. Here are some practical tips to help you speak more naturally without overthinking:
 
 ### 1. **Understand the Core Idea Behind Each Tense**  
 Instead of memorizing each formula, focus on the **purpose** of each tense. For example:
