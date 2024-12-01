@@ -109,3 +109,66 @@ Sure! Here’s how you can identify the tenses in Hindi based on the verb forms.
 - **Future Tenses**: Use forms like **-ga/-gi** (Future Indefinite), **-raha hoga** (Future Continuous), **-chuka hoga** (Future Perfect).
 
 These verb forms act as clues to determine the tense in Hindi!
+
+#------------------------------------------------------------------------------------------
+
+The **Present Perfect Continuous** and **Past Perfect Continuous** tenses both describe actions that were happening over a period of time, but they refer to different points in time. Here’s a breakdown of the differences:
+
+### 1. **Present Perfect Continuous**  
+- **Usage:** This tense describes an action that started in the past and is still continuing or has just finished, with relevance to the present.
+- **Structure:**  
+  **Subject + have/has + been + verb-ing**
+  - **Example:** *I have been studying for two hours.* (I started studying in the past and am still studying or just finished.)
+
+### 2. **Past Perfect Continuous**  
+- **Usage:** This tense describes an action that was happening over a period of time in the past before another past event occurred. It emphasizes the duration of the action before something else happened.
+- **Structure:**  
+  **Subject + had + been + verb-ing**
+  - **Example:** *I had been studying for two hours before you called.* (I was studying before the call happened, and it emphasizes the duration of the studying up to the point of the call.)
+
+### Key Differences:
+- **Time Reference:**  
+  - **Present Perfect Continuous** relates to the **present**, showing actions that have relevance or are ongoing (or just finished).  
+  - **Past Perfect Continuous** relates to a **past event** and shows an action that was happening **before another action in the past**.
+  
+- **Context of Action:**  
+  - **Present Perfect Continuous:** Focuses on actions still affecting the present or very recent actions.  
+  - **Past Perfect Continuous:** Focuses on actions that were ongoing in the past but finished before another past event.
+
+### Examples:
+- **Present Perfect Continuous:**  
+  *She has been working here for five years.* (She started working here in the past and is still working here.)
+  
+- **Past Perfect Continuous:**  
+  *She had been working here for five years before she left.* (She worked here for five years in the past, and then she left.) 
+
+In short, the **Present Perfect Continuous** connects the past with the present, while the **Past Perfect Continuous** focuses on the period of time before another past action.
+
+#-----------------------------------------------------------------------------------------
+
+Not quite. The **Past Perfect Continuous** tense is used specifically to describe actions that were ongoing in the **past** and **completed** before another **past** event happened. It does **not** carry the idea that the action continues into the present.
+
+Here’s a clearer explanation:
+
+### What Past Perfect Continuous Actually Means:
+- **It shows an action that was happening over a period of time before another event in the past.**
+- The action **has finished** in the past, but the focus is on the **duration of the action** before the past event occurred.
+
+For example:
+- **"I had been working for two hours before you called."**
+  - The action of working was ongoing in the past, but it **ended before the call**.
+  - The focus is on **how long** the work was happening before the call took place.
+
+### What It Does NOT Mean:
+- The **Past Perfect Continuous** does not imply that the action is still happening in the present. 
+- If an action is still ongoing in the present, you would use the **Present Perfect Continuous** instead.
+
+For example:
+- **Present Perfect Continuous:** *I have been working for two hours.* (The action is still happening now.)
+- **Past Perfect Continuous:** *I had been working for two hours before you called.* (The action was happening in the past but finished before the call.)
+
+### Key Difference:
+- **Past Perfect Continuous** = Action **completed in the past** but emphasizes the **duration** before another event in the past.
+- **Present Perfect Continuous** = Action that started in the **past** and is still happening **now**.
+
+So, the Past Perfect Continuous does not mean something that started in the past and is still ongoing in the present. It focuses on a completed action in the past that was ongoing before a particular past event.
