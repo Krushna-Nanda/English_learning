@@ -10,7 +10,13 @@ Tenses are categorized based on **time** (past, present, future) and **aspect** 
 3. **Present Perfect**: Describes actions completed at some point before now.  
    - Example: *She has written a letter.*  
 4. **Present Perfect Continuous**: Describes actions started in the past and continuing into the present.  
-   - Example: *She has been writing a letter.*  
+   - Example: *She has been writing a letter.*
+  
+   - ### Summary of Signs:
+- **Present Indefinite**: *ता है, ती है, ते हैं*  
+- **Present Continuous**: *रहा है, रही है, रहे हैं*  
+- **Present Perfect**: *चुका है, चुकी है, चुके हैं*  
+- **Present Perfect Continuous**: *रहा है, रही है, रहे हैं* + **है**  
 
 ---
 
@@ -22,7 +28,13 @@ Tenses are categorized based on **time** (past, present, future) and **aspect** 
 3. **Past Perfect**: Describes actions completed before another action in the past.  
    - Example: *She had written a letter.*  
 4. **Past Perfect Continuous**: Describes actions that were ongoing up until a certain point in the past.  
-   - Example: *She had been writing a letter.*  
+   - Example: *She had been writing a letter.*
+  
+   - ### Summary of Signs:
+- **Past Indefinite**: *आ, ई, ए*  
+- **Past Continuous**: *रहा था, रही थी, रहे थे*  
+- **Past Perfect**: *चुका था, चुकी थी, चुके थे*  
+- **Past Perfect Continuous**: *रहा था, रही थी, रहे थे* + **था**  
 
 ---
 
@@ -34,7 +46,13 @@ Tenses are categorized based on **time** (past, present, future) and **aspect** 
 3. **Future Perfect**: Describes actions that will be completed before a certain time in the future.  
    - Example: *She will have written a letter.*  
 4. **Future Perfect Continuous**: Describes actions that will have been ongoing for some time before a certain point in the future.  
-   - Example: *She will have been writing a letter.*  
+   - Example: *She will have been writing a letter.*
+  
+   - ### Summary of Signs:
+- **Future Indefinite**: *गा,गी, गे*  
+- **Future Continuous**: *रहा होगा, रही होगी, रहे होंगे*  
+- **Future Perfect**: *चुका होगा, चुकी होगी, चुके होंगे*  
+- **Future Perfect Continuous**: *रहा होगा, रही होगी, रहे होंगे* + **होगा**
 
 --- 
 
