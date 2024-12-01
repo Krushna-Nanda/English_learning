@@ -193,3 +193,44 @@ Yes, exactly! When we talk about the **Present Perfect Continuous (PPC)** tense,
 
 ### To sum up:
 - **Yes, when we use the Present Perfect Continuous tense**, we are often aware of **when the action started** (either implicitly or explicitly) and are emphasizing the **duration** of that ongoing action up to the present moment.
+
+### ---------------------------------------------------------------------
+
+The two sentences **"I am studying"** and **"I have been studying for two hours"** are similar in that both describe an ongoing action, but they are used in **different contexts** and **tenses**. Here's the difference between them:
+
+### 1. **I am studying** (Present Continuous)
+- **Tense**: Present Continuous
+- **Use**: Describes an action that is happening **right now**, at the moment of speaking.
+- **Focus**: It is ongoing in the present, but we don't specify how long it has been happening.
+- **Time**: **Now** (in the present moment).
+
+#### Example Use:
+- You would say **"I am studying"** when you are currently in the process of studying.
+  - *For example, if someone asks, "What are you doing right now?" you can answer, "I am studying."*
+
+**Hindi Translation**: मैं पढ़ाई कर रहा हूँ/रही हूँ। (Main padhai kar raha hoon/rahi hoon.)
+
+---
+
+### 2. **I have been studying for two hours** (Present Perfect Continuous)
+- **Tense**: Present Perfect Continuous
+- **Use**: Describes an action that **started in the past and is still continuing** in the present. The focus is on the **duration** or the fact that the action has been happening for a certain period of time.
+- **Focus**: Emphasizes how long something has been happening up to the present moment.
+- **Time**: **Duration** of the action (for two hours).
+
+#### Example Use:
+- You would say **"I have been studying for two hours"** to indicate that the studying started two hours ago and is still happening now.
+  - *For example, if someone asks, "How long have you been studying?" you would answer, "I have been studying for two hours."*
+
+**Hindi Translation**: मैं दो घंटे से पढ़ाई कर रहा हूँ/रही हूँ। (Main do ghante se padhai kar raha hoon/rahi hoon.)
+
+---
+
+### **Key Differences**:
+1. **"I am studying"**: Focuses on the **present action**. It doesn't tell us how long it has been happening; it just states that it is happening **now**.
+2. **"I have been studying for two hours"**: Focuses on the **duration** of the action, showing that it started in the **past** and is still ongoing in the **present**. 
+
+In summary:
+- **"I am studying"** is for what you're doing **right now**.
+- **"I have been studying for two hours"** is for an action that **started in the past** and is still happening, with emphasis on **how long** it has been going on.
+
