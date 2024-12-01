@@ -172,3 +172,24 @@ For example:
 - **Present Perfect Continuous** = Action that started in the **past** and is still happening **now**.
 
 So, the Past Perfect Continuous does not mean something that started in the past and is still ongoing in the present. It focuses on a completed action in the past that was ongoing before a particular past event.
+
+# ---------------------------------------------------------------
+
+Yes, exactly! When we talk about the **Present Perfect Continuous (PPC)** tense, we often emphasize **the duration** of the action and **when it started**. This tense is used when the **exact starting time** may not be specified, but the action **began in the past and is still ongoing** in the present.
+
+### Key points about PPC:
+- **We know the action started in the past** and has continued up to the present.
+- We often use time expressions like **for** (duration), **since** (specific point in time), **lately**, or **recently** to highlight when the action began and how long it has been happening.
+
+#### Examples:
+1. **I have been studying** for two hours.  
+   - The action started **two hours ago** and is still happening.
+
+2. **She has been working** since morning.  
+   - The action started **this morning** and is still continuing.
+
+3. **They have been waiting** for you since 10 AM.  
+   - The action started **at 10 AM** and is still ongoing.
+
+### To sum up:
+- **Yes, when we use the Present Perfect Continuous tense**, we are often aware of **when the action started** (either implicitly or explicitly) and are emphasizing the **duration** of that ongoing action up to the present moment.
